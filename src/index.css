@@ -1,0 +1,10 @@
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  --cursor-color: #fff
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Luckiest+Guy&display=swap')
